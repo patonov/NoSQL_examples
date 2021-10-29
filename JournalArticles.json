@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "617c2dcb4a6581234b4d417a"
+  },
+  "author": "Bill Gates",
+  "date": "27-01-2020",
+  "name": "Top 5 programming languages in 2020",
+  "rating": "5"
+},{
+  "_id": {
+    "$oid": "617c2e044a6581234b4d417c"
+  },
+  "author": "Svetlin Nakov",
+  "date": "02-05-2020",
+  "name": "How to write bug-free code",
+  "rating": "10"
+},{
+  "_id": {
+    "$oid": "617c2e364a6581234b4d417e"
+  },
+  "author": "Nikolay Kostov",
+  "date": "08-07-2020",
+  "name": "Set up your very own web server!",
+  "rating": "20"
+},{
+  "_id": {
+    "$oid": "617c2e7e4a6581234b4d4180"
+  },
+  "author": "Elon Musk",
+  "date": "17-04-2020",
+  "name": "The future of space travel",
+  "rating": "50"
+},{
+  "_id": {
+    "$oid": "617c2ea54a6581234b4d4182"
+  },
+  "author": "Alen Paunov",
+  "date": "10-07-2020",
+  "name": "How to manage effectively",
+  "rating": "50"
+}]
